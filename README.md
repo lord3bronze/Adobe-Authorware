@@ -196,4 +196,4 @@ This repository serves as the official landing page for Adobe Authorware. The so
 **Get the most recent version of Adobe Authorware today!**
 
 ---
-**Last updated:** 2026-11-09 00:23:31 UTC
+**Last updated:** 2026-11-09 07:29:34 UTC
